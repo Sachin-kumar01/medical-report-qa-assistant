@@ -1,0 +1,20 @@
+[
+    {
+        "id": "f51dd0e88d3a85b5dde210287a2c10b5",
+        "file_name": "sample_medical_report.pdf",
+        "pages": 2,
+        "chunks": 3
+    },
+    {
+        "id": "d81ccd09a049f8fdb4d1ea863bc131af",
+        "file_name": "medical_report_2.pdf",
+        "pages": 1,
+        "chunks": 1
+    },
+    {
+        "id": "ae4808732f3dde57b36ef01ca7cac67e",
+        "file_name": "medical_report_3.pdf",
+        "pages": 1,
+        "chunks": 1
+    }
+]

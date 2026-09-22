@@ -1,0 +1,13 @@
+venv/
+.venv/
+
+__pycache__/
+*.pyc
+
+.env
+
+data/uploads/*
+!data/uploads/.gitkeep
+
+.ipynb_checkpoints/
+.streamlit/
